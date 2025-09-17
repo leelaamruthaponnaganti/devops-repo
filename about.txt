@@ -1,0 +1,4 @@
+Name  :Leela Amrutha Ponnaganti
+Course:BCA-A
+One thing you learned about Github:
+       I learned about github tool which is used to store the projects we push the code into the repository. 
